@@ -17,6 +17,11 @@ I am a data-driven professional with 4+ years of experience in database manageme
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📚 Projects
+| Repository                                                                                | Link                                                                                                            | Description                                        |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+
+
+
 | Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
 | [Crosspublish](https://www.crosspublish.com)                                             | [Website](https://www.crosspublish.com)                                                                   |  Social Media Tool        |  /           |
@@ -33,25 +38,14 @@ I am a data-driven professional with 4+ years of experience in database manageme
 | [NEFT Flappy Bird](https://github.com/maxrohowsky/neft-flappy-bird)                         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)                                                            | Neuro Evolution with Fixed Topologies from Scratch |                    |
 | Personal Blog v1                                                  | (Taken Down)                                                                             | Built with NextJS (App Router) & WP GraphQL        |                    |
 
-## 👔 Experience
-| Position               | Company                     | Field                         | Work Period       |
-| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Senior Consultant**         | **Simon-Kucher**                | **Custom Software & Loyalty Software**       | **2024-08 — now** |
-| Consultant         | Deloitte                | Technology Strategy       | 2023-01 — 2024-04 |
-| Consultant             | BearingPoint                | Trade Promotion Management       | 2021-10 — 2022-11 |
-| Researcher             | Technical Univ. Berlin      | Quantitative Finance          | 2021-05 — 2022-10 |
-| Assistant to GM        | AHK Greater China           | Industry Services & Banking   | 2021-02 — 2021-04 |
+## 👔 💼 Professional Experience
+Bravo Software JSC | Product Development (2021 - 2025)
+* Database Design: Conceptualized and designed relational database schemas (MS SQL Server/ PostgresSQL) to support new features across Bravo 8 and Bravo 10 ERP product lines.
+* System Optimization: Routinely monitored database performance, maintained data integrity, and refactored SQL logic for stable backend operations.
+* Business Analysis: Gathered and translated complex business requirements from various departments into structured data flows and technical system specifications.
 
 ## 🎓 Education
-- Ph.D. Degree @ Technical University of Berlin (2019 - 2021) 
-- Master’s Degree @ Tongji University of Shanghai (2016 - 2018)
-- Master’s Degree @ Technical University of Berlin (2015 - 2018)
-- Bachelor's Degree @ Technical University of Berlin (2011 - 2015)
-
-## 🛠 Tech Stack
-- **Languages:** Python, SQL, PL/pgSQL
-- **Tools/Frameworks:** PostgreSQL, SQLAlchemy, Pandas, Scikit-learn
-- **Infrastructure:** Docker, Linux, Bash Scripting
+- Bachelor's Degree @ National Economics University (NEU) (2018 - 2022)
 
 ## 🚀 Projects
 | Project | Description | Link |
