@@ -19,12 +19,12 @@ I am a data-driven professional with 4+ years of experience in database manageme
 ## 📚 Projects
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **E-Commerce Streaming** | E-Commerce Observability & Real-time Data Streaming system | [View Repo](https://github.com/huytq1412/ecommerce-realtime-streaming) |
-| **E-Commerce ELT Pipeline** | E-Commerce ELT Pipeline: Batch Processing & Cloud Data Warehouse | [View Repo](https://github.com/huytq1412/ecommerce-ELT-pipeline) |
-| **UNIGAP Project4** | Advanced PostgreSQL optimization and a stored-function reporting system for e-commerce analytics. | [View Repo](https://github.com/huytq1412/UNIGAP-Project4) |
-| **UNIGAP Project3** | E-commerce ETL pipeline for generating, transforming, and bulk-inserting into PostgreSQL | [View Repo](https://github.com/huytq1412/UNIGAP-Project3) |
-| **UNIGAP Project2** | Tiki's optimized product crawler for transactional PostgreSQL upserts | [View Repo](https://github.com/huytq1412/UNIGAP-Project2) |
-| **TopCV ETL Pipeline** | TopCV end-to-end data pipeline for job market analytics | [View Repo](https://github.com/huytq1412/TopCV-ETL-pipeline) |
+| **E-Commerce Streaming** | E-Commerce Observability & Real-time Data Streaming system | [View](https://github.com/huytq1412/ecommerce-realtime-streaming) |
+| **E-Commerce ELT Pipeline** | E-Commerce ELT Pipeline: Batch Processing & Cloud Data Warehouse | [View](https://github.com/huytq1412/ecommerce-ELT-pipeline) |
+| **UNIGAP Project4** | Advanced PostgreSQL optimization and a stored-function reporting system for e-commerce analytics. | [View](https://github.com/huytq1412/UNIGAP-Project4) |
+| **UNIGAP Project3** | E-commerce ETL pipeline for generating, transforming, and bulk-inserting into PostgreSQL | [View](https://github.com/huytq1412/UNIGAP-Project3) |
+| **UNIGAP Project2** | Tiki's optimized product crawler for transactional PostgreSQL upserts | [View](https://github.com/huytq1412/UNIGAP-Project2) |
+| **TopCV ETL Pipeline** | TopCV end-to-end data pipeline for job market analytics | [View](https://github.com/huytq1412/TopCV-ETL-pipeline) |
 
 ## 💼 Professional Experience
 Bravo Software JSC | Product Development (2021 - 2025)
