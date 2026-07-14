@@ -37,4 +37,4 @@ Bravo Software JSC | Product Development (2021 - 2025)
 
 ## 📬 Connect with me
 * Email: huytrinhquang1412@gmail.com
-* LinkedIn: linkedin.com/in/huytq1412
+* LinkedIn: [View](linkedin.com/in/huytq1412)
