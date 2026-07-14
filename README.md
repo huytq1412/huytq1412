@@ -1,9 +1,19 @@
 ## Hi there 👋
+I'm a Data Engineer passionate about building scalable ETL pipelines and optimizing database systems.
 
-<!--
-**huytq1412/huytq1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- **Languages:** Python, SQL, PL/pgSQL
+- **Tools/Frameworks:** PostgreSQL, SQLAlchemy, Pandas, Scikit-learn
+- **Infrastructure:** Docker, Linux, Bash Scripting
 
-Here are some ideas to get you started:
+## 🚀 Projects
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **TopCV ETL Pipeline** | End-to-end job market analytics pipeline | [View Repo](https://github.com/huytq1412/TopCV-ETL-pipeline) |
+| **E-Commerce Streaming** | Real-time data processing system | [View Repo](https://github.com/huytq1412/ecommerce-realtime-streaming) |
+
+## 📈 Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huytq1412&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
