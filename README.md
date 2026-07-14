@@ -17,10 +17,10 @@ I am a data-driven professional with 4+ years of experience in database manageme
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📚 Projects
-| Repository                                                                                | Link                                                                                                            | Description                                        |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-
-
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **TopCV ETL Pipeline** | End-to-end job market analytics pipeline | [View Repo](https://github.com/huytq1412/TopCV-ETL-pipeline) |
+| **E-Commerce Streaming** | Real-time data processing system | [View Repo](https://github.com/huytq1412/ecommerce-realtime-streaming) |
 
 | Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
@@ -38,7 +38,7 @@ I am a data-driven professional with 4+ years of experience in database manageme
 | [NEFT Flappy Bird](https://github.com/maxrohowsky/neft-flappy-bird)                         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)                                                            | Neuro Evolution with Fixed Topologies from Scratch |                    |
 | Personal Blog v1                                                  | (Taken Down)                                                                             | Built with NextJS (App Router) & WP GraphQL        |                    |
 
-## 👔 💼 Professional Experience
+## 💼 Professional Experience
 Bravo Software JSC | Product Development (2021 - 2025)
 * Database Design: Conceptualized and designed relational database schemas (MS SQL Server/ PostgresSQL) to support new features across Bravo 8 and Bravo 10 ERP product lines.
 * System Optimization: Routinely monitored database performance, maintained data integrity, and refactored SQL logic for stable backend operations.
@@ -47,12 +47,6 @@ Bravo Software JSC | Product Development (2021 - 2025)
 ## 🎓 Education
 - Bachelor's Degree @ National Economics University (NEU) (2018 - 2022)
 
-## 🚀 Projects
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **TopCV ETL Pipeline** | End-to-end job market analytics pipeline | [View Repo](https://github.com/huytq1412/TopCV-ETL-pipeline) |
-| **E-Commerce Streaming** | Real-time data processing system | [View Repo](https://github.com/huytq1412/ecommerce-realtime-streaming) |
-
-## 📈 Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huytq1412&show_icons=true&theme=dark)
-
+## Socials
+[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/huytq1412) &nbsp;
+[![Preview](/assets/website.png)](huytrinhquang1412@mgail.com) &nbsp;
