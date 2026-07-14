@@ -27,10 +27,10 @@ I am a data-driven professional with 4+ years of experience in database manageme
 | **TopCV ETL Pipeline** | TopCV end-to-end data pipeline for job market analytics | [View](https://github.com/huytq1412/TopCV-ETL-pipeline) |
 
 ## 💼 Professional Experience
-Bravo Software JSC | Product Development (2021 - 2025)
-* Database Design: Conceptualized and designed relational database schemas (MS SQL Server/ PostgresSQL) to support new features across Bravo 8 and Bravo 10 ERP product lines.
-* System Optimization: Routinely monitored database performance, maintained data integrity, and refactored SQL logic for stable backend operations.
-* Business Analysis: Gathered and translated complex business requirements from various departments into structured data flows and technical system specifications.
+Bravo Software JSC | Product Development (11/2021 - 12/2025)
+* **Database Design**: Conceptualized and designed relational database schemas (MS SQL Server/ PostgresSQL) to support new features across Bravo 8 and Bravo 10 ERP product lines.
+* **System Optimization**: Routinely monitored database performance, maintained data integrity, and refactored SQL logic for stable backend operations.
+* **Business Analysis**: Gathered and translated complex business requirements from various departments into structured data flows and technical system specifications.
 
 ## 🎓 Education
 * Bachelor's Degree @ National Economics University (NEU) (2018 - 2022)
