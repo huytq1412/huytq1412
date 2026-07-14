@@ -23,7 +23,7 @@ I am a data-driven professional with 4+ years of experience in database manageme
 | **E-Commerce ELT Pipeline** | E-Commerce ELT Pipeline: Batch Processing & Cloud Data Warehouse | [View](https://github.com/huytq1412/ecommerce-ELT-pipeline) |
 | **UNIGAP Project4** | Advanced PostgreSQL optimization and a stored-function reporting system for e-commerce analytics. | [View](https://github.com/huytq1412/UNIGAP-Project4) |
 | **UNIGAP Project3** | E-commerce ETL pipeline for generating, transforming, and bulk-inserting into PostgreSQL | [View](https://github.com/huytq1412/UNIGAP-Project3) |
-| **UNIGAP Project2** | Tiki's optimized product crawler for transactional PostgreSQL upserts | [View](https://github.com/huytq1412/UNIGAP-Project2) |
+| **UNIGAP Project2** | TIKI optimized product crawler for transactional PostgreSQL upserts | [View](https://github.com/huytq1412/UNIGAP-Project2) |
 | **TopCV ETL Pipeline** | TopCV end-to-end data pipeline for job market analytics | [View](https://github.com/huytq1412/TopCV-ETL-pipeline) |
 
 ## 💼 Professional Experience
