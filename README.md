@@ -19,24 +19,12 @@ I am a data-driven professional with 4+ years of experience in database manageme
 ## 📚 Projects
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **TopCV ETL Pipeline** | End-to-end job market analytics pipeline | [View Repo](https://github.com/huytq1412/TopCV-ETL-pipeline) |
-| **E-Commerce Streaming** | Real-time data processing system | [View Repo](https://github.com/huytq1412/ecommerce-realtime-streaming) |
-
-| Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
-| [Crosspublish](https://www.crosspublish.com)                                             | [Website](https://www.crosspublish.com)                                                                   |  Social Media Tool        |  /           |
-| [DB Chat](https://github.com/MaxRohowsky/database-ai-react)                                             | [Download](https://www.maxrohowsky.com/database-chat)                                                                   |  AI first DB Client        |  /           |
-| [Bluesky 3D Graph](https://bluesky-3d-graph.vercel.app/)                                             | [Website](https://bluesky-3d-graph.vercel.app/)                                                                   |  3D chart of your Bluesky post activity        | [Live on PH](https://bluesky-3d-graph.vercel.app/)                    |
-| [mdx Blog](https://mdx-blog-amber.vercel.app/)                                            | [Website](https://mdx-blog-amber.vercel.app/)                                                                   |  Premium MDX, NextJS, TailwindCSS Template         | [3rd DevHunt](https://devhunt.org/tool/nextjs-mdx-blog)                    |
-| [Personal Blog v2](https://maxrohowsky.com/)                                                 | [Website](https://maxrohowsky.com/)                                                                                |  New Blog.                                         |                    |
-| [Outline HTML Elements](https://github.com/maxrohowsky/outline-html-elements)               | [Webstore](https://chrome.google.com/webstore/detail/ihlgleabnhekkankfpfoafkobncbfcfo)                          | Outline HTML Elements to Inspect Website Layout    |                    |
-| [Twitter (X) Font Editor](https://github.com/maxrohowsky/twitter-font-editor)               | [Webstore](https://chromewebstore.google.com/detail/x-twitter-post-text-edito/dgcfmccdeggjhkpndikcanaobhkggffd) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |                    |
-| [Landing Page Design Examples](https://github.com/maxrohowsky/landing-page-design-examples) | [Website](https://landing-page-design-examples.vercel.app/)                                                     | Awesome Landing Pages                              |  [5th DevHunt](https://devhunt.org/tool/landinghero)                 |
-| [Best GitHub Profile Readmes](https://github.com/maxrohowsky/best-github-profile-readme)    | [Website](https://maxrohowsky.github.io/best-github-profile-readme/)                                              | GitHub's most Unique Profiles                      |  [3rd DevHunt](https://devhunt.org/tool/gitpro)   |
-| [Click to Copy](https://github.com/maxrohowsky/click-to-copy)                               | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)             | Copy Text, Urls, and CSS with one Click!           |  [4rd DevHunt](https://devhunt.org/tool/click-to-copy) |
-| [LinkedIn Font Editor](https://github.com/maxrohowsky/linkedin-font-editor)                 | [Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for LinkedIn      |                    |
-| [NEFT Flappy Bird](https://github.com/maxrohowsky/neft-flappy-bird)                         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)                                                            | Neuro Evolution with Fixed Topologies from Scratch |                    |
-| Personal Blog v1                                                  | (Taken Down)                                                                             | Built with NextJS (App Router) & WP GraphQL        |                    |
+| **E-Commerce Streaming** | E-Commerce Observability & Real-time Data Streaming system | [View Repo](https://github.com/huytq1412/ecommerce-realtime-streaming) |
+| **E-Commerce ELT Pipeline** | E-Commerce ELT Pipeline: Batch Processing & Cloud Data Warehouse | [View Repo](https://github.com/huytq1412/ecommerce-ELT-pipeline) |
+| **UNIGAP Project4** | Advanced PostgreSQL optimization and a stored-function reporting system for e-commerce analytics. | [View Repo](https://github.com/huytq1412/UNIGAP-Project4) |
+| **UNIGAP Project3** | E-commerce ETL pipeline for generating, transforming, and bulk-inserting into PostgreSQL | [View Repo](https://github.com/huytq1412/UNIGAP-Project3) |
+| **UNIGAP Project2** | Tiki's optimized product crawler for transactional PostgreSQL upserts | [View Repo](https://github.com/huytq1412/UNIGAP-Project2) |
+| **TopCV ETL Pipeline** | TopCV end-to-end data pipeline for job market analytics | [View Repo](https://github.com/huytq1412/TopCV-ETL-pipeline) |
 
 ## 💼 Professional Experience
 Bravo Software JSC | Product Development (2021 - 2025)
