@@ -45,8 +45,8 @@ Bravo Software JSC | Product Development (2021 - 2025)
 * Business Analysis: Gathered and translated complex business requirements from various departments into structured data flows and technical system specifications.
 
 ## 🎓 Education
-- Bachelor's Degree @ National Economics University (NEU) (2018 - 2022)
+* Bachelor's Degree @ National Economics University (NEU) (2018 - 2022)
 
-## Socials
-[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/huytq1412) &nbsp;
-[![Preview](/assets/website.png)](huytrinhquang1412@mgail.com) &nbsp;
+## 📬 Connect with me
+* Email: huytrinhquang1412@gmail.com
+* LinkedIn: linkedin.com/in/huytq1412
